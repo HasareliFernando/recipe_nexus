@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Quinoa Salad",
+    "image": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+    "badge": "Healthy",
+    "badgeColor": "bg-green-600",
+    "info": "25 mins • 320 cal"
+  },
+  {
+    "title": "Creamy Pasta",
+    "image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "badge": "Popular",
+    "badgeColor": "bg-orange-500",
+    "info": "30 mins • 450 cal"
+  },
+  {
+    "title": "Thai Curry",
+    "image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+    "badge": "Spicy",
+    "badgeColor": "bg-red-500",
+    "info": "40 mins • 520 cal"
+  }
+]

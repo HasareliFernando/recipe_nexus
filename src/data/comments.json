@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "user": "Sarah Johnson",
+    "date": "15.03.2025 14:22",
+    "rating": 5,
+    "title": "Absolutely Delicious!",
+    "text": "This recipe was a hit with my whole family. The flavors are perfectly balanced and the instructions were easy to follow.",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "user": "David Smith",
+    "date": "12.03.2025 09:15",
+    "rating": 4,
+    "title": "Great weeknight dinner",
+    "text": "Quick to prepare and tasted wonderful. I added a bit more seasoning to suit my taste. Will definitely make again!",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "user": "Ebba Carlsson",
+    "date": "08.03.2025 18:45",
+    "rating": 5,
+    "title": "Restaurant quality at home",
+    "text": "I was amazed at how close this came to the restaurant version. The step-by-step instructions made it so simple.",
+    "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Michael Chen",
+    "date": "02.03.2025 20:30",
+    "rating": 4,
+    "title": "Loved the presentation tips",
+    "text": "Not only does it taste great, but the plating suggestions really elevated the dish. My guests were impressed!",
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "id": 5,
+    "user": "Emma Wilson",
+    "date": "28.02.2025 11:10",
+    "rating": 5,
+    "title": "Perfect comfort food",
+    "text": "Made this on a rainy evening and it was exactly what we needed. Rich, hearty, and full of flavor. A new household favorite!",
+    "avatar": "https://randomuser.me/api/portraits/women/22.jpg"
+  }
+]

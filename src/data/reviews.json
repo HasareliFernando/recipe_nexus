@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "text": "\"Amazing recipes and so easy to follow! RecipeHaven has made cooking so much fun.\"",
+    "user": "Sarah Johnson",
+    "location": "New York, USA",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "text": "\"Amazing recipes and so easy to follow! RecipeHaven has made cooking so much fun.\"",
+    "user": "David Smith",
+    "location": "London, UK",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "text": "\"Amazing recipes and so easy to follow! RecipeHaven has made cooking so much fun.\"",
+    "user": "Ebba Carlsson",
+    "location": "Stockholm, Sweden",
+    "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+  }
+]
