@@ -15,9 +15,13 @@
 ---
 
 # Create .env file
+
+
 ## FOR MealApi
 VITE_API_BASE_URL=https://www.themealdb.com/api/json/v1/1/  
-## authenication
+
+
+## Authentication
 VITE_USER_NAME=recipeadmin 
 VITE_USER_PASSWORD=recipepassword@123
 
@@ -81,11 +85,16 @@ The interface follows a consistent design system including:
 * Ingredient list.
 * Cooking instructions.
 
+### Sing in
+
+* Sing in button.
+* Username, Password Input Fields.
+
 ### Favorites System
 
 * Add recipes to favorites.
 * Remove recipes from favorites.
-* Favorites persist using browser localStorage.
+* Favorites persist using react persist.
 * Dedicated favorites page.
 
 ### Loading States
@@ -194,14 +203,9 @@ npm run preview
 ### Challenge 1: Persisting Favorite Recipes
 
 Solution:
-localStorage was used to store favorite recipes, ensuring that user preferences remain available even after refreshing the page.
+React persist was used to store favorite recipes, ensuring that user preferences remain available even after refreshing the page.
 
-### Challenge 2: Managing Shared State
-
-Solution:
-React Context API was implemented to provide favorite recipe data across multiple pages without prop drilling.
-
-### Challenge 3: Responsive Layout
+### Challenge 2: Responsive Layout
 
 Solution:
 A mobile-first approach and responsive grid system were used to ensure consistent behavior across different screen sizes.
@@ -210,9 +214,8 @@ A mobile-first approach and responsive grid system were used to ensure consisten
 
 # Future Improvements
 
-* Advanced filtering by category.
+* Advanced filtering.
 * Search suggestions and autocomplete.
-* User authentication.
 * Dark mode support.
 * Recipe sharing functionality.
 * Pagination and infinite scrolling.
