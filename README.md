@@ -30,11 +30,11 @@ VITE_USER_PASSWORD=recipepassword@123
 
 # Project Overview
 
- Recipe Nexus is a responsive web application that allows users to discover recipes by searching either by recipe name or by ingredient. The application provides detailed recipe information, including calories, prep cook times, ingredients and cooking instructions, and enables users to save their favorite recipes for future access.
+ Recipe Nexus is a responsive web application that allows users to discover recipes by searching either by recipe name or by ingredient. The application provides detailed recipe information, including calories, prep cook times, ingredients and cooking instructions, and enables users to save their favourite recipes for future access.
 
 Recipe Nexus was developed as a user-focused recipe finder application that allows users to quickly discover meals through a clean and visually appealing interface.
 
-The application integrates with a public recipe API to fetch real-time recipe data and provides features such as recipe searching, detailed recipe views, and a persistent favorites system.
+The application integrates with a public recipe API to fetch real-time recipe data and provides features such as recipe searching, detailed recipe views, and a persistent favourites system.
 
 The project follows modern React development practices with reusable components, responsive layouts, and efficient state management.
 
@@ -49,7 +49,7 @@ The primary goal of this application is to help users quickly find recipes witho
 * A search interface was chosen because searching is the main action users perform when looking for recipes.
 * Large recipe images were used to make browsing visually appealing and help users identify dishes quickly.
 * Consistent card layouts improve readability and create a predictable user experience.
-* A dedicated favorites feature allows users to save recipes and return to them later.
+* A dedicated favourites feature allows users to save recipes and return to them later.
 * Responsive layouts ensure a seamless experience across mobile, tablet, and desktop devices.
 
 ### Design System
@@ -90,12 +90,12 @@ The interface follows a consistent design system including:
 * Sing in button.
 * Username, Password Input Fields.
 
-### Favorites System
+### favourites System
 
-* Add recipes to favorites.
-* Remove recipes from favorites.
-* Favorites persist using react persist.
-* Dedicated favorites page.
+* Add recipes to favourites.
+* Remove recipes from favourites.
+* favourites persist using react persist.
+* Dedicated favourites page.
 
 ### Loading States
 
@@ -200,10 +200,10 @@ npm run preview
 
 # Challenges and Solutions
 
-### Challenge 1: Persisting Favorite Recipes
+### Challenge 1: Persisting favourite Recipes
 
 Solution:
-React persist was used to store favorite recipes, ensuring that user preferences remain available even after refreshing the page.
+React persist was used to store favourite recipes, ensuring that user preferences remain available even after refreshing the page.
 
 ### Challenge 2: Responsive Layout
 
